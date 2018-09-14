@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-crawler",
+  "version": "1.0.0",
+  "description": "使用nodejs做的网页爬虫",
+  "main": "crawler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2"
+  }
+}
